@@ -16,8 +16,8 @@
   },
   "types": "./dist/index.d.ts",
   "dependencies": {
-    "@mysten/sui.js": "0.0.0-experimental-20230731203002",
-    "@mysten/wallet-standard": "0.0.0-experimental-20230731203002",
+    "@mysten/sui.js": "0.39.0",
+    "@mysten/wallet-standard": "0.5.14",
     "@radix-ui/react-dialog": "^1.0.2",
     "@svgr/rollup": "^6.5.1",
     "@wallet-standard/core": "1.0.3",
@@ -54,8 +54,8 @@
     "vite-plugin-svgr": "^2.2.1"
   },
   "peerDependencies": {
-    "@mysten/sui.js": "0.0.0-experimental-20230731203002",
-    "@mysten/wallet-standard": "0.0.0-experimental-20230731203002"
+    "@mysten/sui.js": "0.39.0",
+    "@mysten/wallet-standard": "0.5.14"
   },
   "repository": {
     "type": "git",
